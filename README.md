@@ -1,16 +1,12 @@
-# percentage_calculate_app
+# Calculadora de Gorjetas 🇧🇷
 
-A new Flutter project.
+Para realizar este projeto, utilizei TextFormField e um ToggleButtons para manusear os dados. Para deixar totalmente reativo utilizei um controller, para realizar os calculos e atribuir os valores usando o notifyListeners. Dentro do projeto também criei um model para armazenar duas listas.
 
-## Getting Started
+# Tip Calculator 🇺🇸
 
-This project is a starting point for a Flutter application.
+To carry out this project, I used TextFormField and a ToggleButtons to handle the data. To make it fully reactive I used a controller to perform the calculations and assign the values using notifyListeners. Within the project I also created a model to store two lists.
 
-A few resources to get you started if this is your first Flutter project:
+## 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/83305912/194730893-2c42aa13-0bd7-4862-8c7b-c35e4960643b.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
